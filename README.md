@@ -1,1 +1,1 @@
-# Molecular_Translation_with_Image_Captioning
+# Molecular Translation with Image Captioning
